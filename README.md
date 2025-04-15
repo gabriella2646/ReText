@@ -1,1 +1,1 @@
-# ReText
+# ReText Questo semplice script JavaScript analizza e riscrive un testo migliorandone la qualità. Rimuove parole inutili, corregge errori ortografici, sostituisce termini inappropriati e controlla la lunghezza delle parole. È utile per esercizi di manipolazione di stringhe, analisi base del linguaggio e pulizia di testi.
